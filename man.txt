@@ -1,0 +1,38 @@
+
+Termux Method 2:
+
+apt update && apt upgrade
+pkg install git
+pkg install python
+pip install requests
+pip install lolcat
+pip install mechanize
+pip install bs4
+pip install rich
+git clone https://github.com/Sarfraz-Ssb/Dump.git or https://github.com/nawaraskc222/enolc2.git
+cd Dump $$ python Dump.py
+
+
+put coookies>>
+python Dump.py
+>>1
+>>mon.txt ///filename
+>>1
+enter a public id:
+ctrl+z
+>>exit
+>>exit
+
+cd HARRYv6
+python run.py
+>>2
+goto quick edit ->open(SAF)->click(mon.txt or file name)->save as->money.txt(rename file)->goto termux
+choose:2
+filename:/sdcard/money.txt
+
+choose:3
+choose:1
+show app:n
+show cookies:y
+show cp id:n
+Done
